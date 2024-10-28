@@ -1,7 +1,7 @@
 package upstream
 
 import (
-	"github.com/breeve/envoy_go/envoy/config"
+	"github.com/breeve/envoy-go/envoy/config"
 )
 
 type ClusterUpstream interface {

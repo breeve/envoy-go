@@ -1,3 +1,3 @@
-module github.com/breeve/envoy_go
+module github.com/breeve/envoy-go
 
 go 1.18
